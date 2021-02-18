@@ -13,9 +13,9 @@ public class AndroidLauncher extends AndroidApplication {
 		super.onCreate(savedInstanceState);
 		AndroidApplicationConfiguration config = new AndroidApplicationConfiguration();
 		initialize(new FlappyPikachu(), config);
-		//MediaPlayer mp=MediaPlayer.create(this,R.raw.pikapikasong);
-		//mp.setLooping(true);
-		//mp.start();
+		MediaPlayer mp=MediaPlayer.create(this,R.raw.pikapikasong);
+		mp.setLooping(true);
+		mp.start();
 
 	}
 }
