@@ -7,4 +7,4 @@ Flappy Bird but with a Pikachu sprite instead!
 </div>
 
 
-<img width="213" alt="newpikachu" src="https://user-images.githubusercontent.com/77471578/117561344-10341900-b064-11eb-9137-b616e3962283.PNG">
+<img width="166" alt="newpikachu" src="https://user-images.githubusercontent.com/77471578/117561344-10341900-b064-11eb-9137-b616e3962283.PNG">
